@@ -21,6 +21,8 @@ import org.terrier.structures.bit.DirectIndex;
 import org.terrier.structures.postings.IterablePosting;
 
 
+
+
 /**
  * @author ould
  *
